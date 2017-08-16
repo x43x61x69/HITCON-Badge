@@ -8,7 +8,7 @@ A (very) simple manual for HITCON 2017 Premium Badge.
 
 > PLEASE DO NOT RE-FLASH YOUR HPB UNLESS YOU KNEW HOW TO RESTORE IT OR NO LONGER WANTED TO PARTICIPATE IN THE CTF.
 
-## Use as a HITCON Badge
+## Features
 
 ### Name Display
 
