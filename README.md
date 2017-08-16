@@ -26,7 +26,7 @@ A (very) simple manual for HITCON 2017 Premium Badge.
 
 ### Game Play
 
-- There's a small game that can be activated via holding `RIGHT + X + B`.
+- There's a mini game that can be activated via holding `RIGHT + X + B`.
   - You might be rewarded once your score is higher than **249**.
 - You might be able to catch some Pikachu if you were lucky.
   - You might be rewarded if you happen to catch the most.
