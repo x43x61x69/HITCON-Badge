@@ -54,6 +54,11 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
   - You might be rewarded if you happen to catch the most.
   - Sharing your capture results with others will be disqualified.
 
+### Key Submission
+
+- Snake: https://mini.hitcon.org/
+- Pikachu: https://badge.hitcon.org/
+
 > Note: Factory reseting your HEB may result in disqualification of related awards!!
 
 ## License
