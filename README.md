@@ -2,7 +2,7 @@
 
 A (very) simple manual for HITCON 2017 Electronic Badge.
 
-*Last Update: Aug 25, 2017 3:39 PM*
+*Last Update: Aug 25, 2017 4:16 PM*
 
 ## Overview
 
@@ -69,6 +69,10 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
 - Pikachu: https://badge.hitcon.org/
 
 > Note: Factory reseting your HEB may result in disqualification of related awards!!
+
+### Hints
+
+- TBA.
 
 ### FAQ
 
