@@ -2,7 +2,7 @@
 
 A (very) simple manual for HITCON 2017 Electronic Badge.
 
-*Last Update: Aug 25, 2017 12:42 PM*
+*Last Update: Aug 25, 2017 2:24 PM*
 
 ## Overview
 
@@ -45,6 +45,10 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
   - e.g. if the prefix is `0123` and the user defined text is `Tom`, write UTF-8 string `0123Tom` to the BLE characteristic.
 - The user defined text will be stored on NVDM and will be restore on reboots.
 - To reset the defined text, holding `X` + `Y` + `A` + `B` during boot animation then confirm the reset. (Or just overwrite the current text if failed.)
+- Some tools for BLE writing:
+  - iOS: LightBlue https://itunes.apple.com/us/app/lightblue-explorer-bluetooth-low-energy/id557428110?mt=8
+  - Android: BLE Scanner https://play.google.com/store/apps/details?id=com.macdom.ble.blescanner&hl=zh_TW
+  - macOS: Bluetooth Explorer of the Additional Tools for Xcode https://developer.apple.com/download/more/
 
 > Note: Reseting your HEB may result in disqualification of some HEB related awards!!
 
