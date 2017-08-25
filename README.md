@@ -2,7 +2,7 @@
 
 A (very) simple manual for HITCON 2017 Electronic Badge.
 
-*Last Update: Aug 25, 2017 2:24 PM*
+*Last Update: Aug 25, 2017 3:39 PM*
 
 ## Overview
 
@@ -69,6 +69,14 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
 - Pikachu: https://badge.hitcon.org/
 
 > Note: Factory reseting your HEB may result in disqualification of related awards!!
+
+### FAQ
+
+- Q: The animation freezed?
+- A: Your batteries' voltage is too low. Replace them or use microUSB as power source.
+
+- Q: I can't find my device?
+- A: There are lots of BLE devices around, find somewhere without BLE disruption and retry. The device name is the same as its Bluetooth MAC address, it would help to locate your device if the name of the device can't be resolved due to disruption.
 
 ## License
 
