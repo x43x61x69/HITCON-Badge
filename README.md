@@ -6,6 +6,7 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
 
 **HITCON 2017 Electronic Badge** (HEB) is based on **MediaTek MT7697** SoC.
 
+> You can use microUSB instead of battery!
 > PLEASE DO NOT RE-FLASH YOUR HEB UNLESS YOU KNEW HOW TO RESTORE IT OR NO LONGER WANTED TO PARTICIPATE IN THE CTF.
 
 ## Use as a HITCON Badge
