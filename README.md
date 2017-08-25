@@ -2,7 +2,7 @@
 
 A (very) simple manual for HITCON 2017 Electronic Badge.
 
-*Last Update: Aug 25, 2017 11:42 AM*
+*Last Update: Aug 25, 2017 11:49 AM*
 
 ## Overview
 
@@ -44,7 +44,7 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
   - Format: `PREFIX` + `TEXT`.
   - e.g. if the prefix is `0123` and the user defined text is `Tom`, write UTF-8 string `0123Tom` to the BLE characteristic.
 - The user defined text will be stored on NVDM and will be restore on reboots.
-- To reset the defined text, holding `X` + `Y` + `A` + `B` during boot animation then confirm the reset.
+- To reset the defined text, holding `X` + `Y` + `A` + `B` during boot animation then confirm the reset. (Or just overwrite the current text if failed.)
 
 > Note: Reseting your HEB may result in disqualification of some HEB related awards!!
 
@@ -57,6 +57,7 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
 - You might be able to catch some Pikachu if you were lucky.
   - You might be rewarded if you happen to catch the most.
   - Sharing your capture results with others will be disqualified.
+  - If you encountered any error, it's (usually) because the signal to the source is too weak.
 
 ### Key Submission
 
