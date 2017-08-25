@@ -50,6 +50,8 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
 
 - There's a small game that can be activated via holding `RIGHT + X + B`.
   - You might be rewarded once your score is higher than **249**.
+  - You can use either the joy-stick or the `X`, `Y`, `A` and `B` to contorl the snake direction.
+  - You can also pause the game via the `CENTER` button.
 - You might be able to catch some Pikachu if you were lucky.
   - You might be rewarded if you happen to catch the most.
   - Sharing your capture results with others will be disqualified.
