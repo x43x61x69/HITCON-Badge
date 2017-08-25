@@ -2,7 +2,7 @@
 
 A (very) simple manual for HITCON 2017 Electronic Badge.
 
-*Last Update: Aug 25, 2017 11:49 AM*
+*Last Update: Aug 25, 2017 12:42 PM*
 
 ## Overview
 
@@ -61,7 +61,7 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
 
 ### Key Submission
 
-- Snake: https://mini.hitcon.org/
+- Snake: https://mini.hitcon.org/challenges#Snake
 - Pikachu: https://badge.hitcon.org/
 
 > Note: Factory reseting your HEB may result in disqualification of related awards!!
