@@ -21,7 +21,7 @@ To enter the hardware bootloader mode, hold both `RST` and `USR` key, then relea
 - Windows: `mt76x7-flash-tool-console.exe read COM7 921600 79000 138000 dump.bin`
 - Linux: `mt76x7-flash-tool read COM7 921600 79000 138000 dump.bin`
 - macOS: As I'm a die-hard macOS user, here's how you can do the above on macOS with the help of __wine__.
-    - Install __USB to UART driver__ (Use Legacy VCP driver v4 instead of v5 to prevent issues): https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+    - Install __USB to UART driver__: https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
     - Install wine here (Choose __Stable__ if you have no idea): https://dl.winehq.org/wine-builds/macosx/download.html
     - Symbolic USB to COM port for wine (here we choose _COM6_): `ln -s /dev/cu.SLAB_USBtoUART ~/.wine/dosdevices/COM6`
     - Install VC++ runtime (I have no idea if we need this, just to be save.): `wine vcredist_x86_vs2010.exe` & `wine vcredist_x64_vs2010.exe`
