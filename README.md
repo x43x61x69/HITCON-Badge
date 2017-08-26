@@ -2,7 +2,7 @@
 
 A (very) simple manual for HITCON 2017 Electronic Badge.
 
-*Last Update: Aug 26, 2017 12:26 PM (UTC+8)*
+*Last Update: Aug 26, 2017 4:08 PM (UTC+8)*
 
 ## Overview
 
@@ -84,7 +84,7 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
 
 ### Solution
 
-- See: https://github.com/x43x61x69/HITCON-Badge/tree/master/Solution (TBA once the mini wargame is over.)
+- See: https://github.com/x43x61x69/HITCON-Badge/tree/master/Solution
 
 ### FAQ
 
