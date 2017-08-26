@@ -94,7 +94,7 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
 - __Q: I can't find my device?__
 - A: There are lots of BLE devices around, find somewhere without BLE disruption and retry. The device name is the same as its Bluetooth MAC address, it would help to locate your device if the name of the device can't be resolved due to disruption.
 
-- __Q: Pikachu catches failed with an error?__
+- __Q: Pikachu catching failed with an error?__
 - A: It's (usually) because the signal to the source is too weak. The source is on the move.
 
 ## License
