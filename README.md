@@ -2,7 +2,7 @@
 
 A (very) simple manual for HITCON 2017 Electronic Badge.
 
-*Last Update: Aug 26, 2017 9:29 AM*
+*Last Update: Aug 26, 2017 12:26 PM (UTC+8)*
 
 ## Overview
 
@@ -77,17 +77,25 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
   - By googling the keyword "_MT7697_" (given by the badge's description), you should be able to find some __REALLY__ useful tools from the [official site](https://docs.labs.mediatek.com/resource/mt7687-mt7697/en/).
   - That site also has a guide regarding those __REALLY__ useful tools that gives you the detail of flash structure.
   - __MT7697__ is an ARM _Cortex-M4_ chip.
+
 - Pikachu:
   - No, there's no way to cheat this game besides saving some labor work. Stop wasting your time!
   - Also, there were no hidden keys regarding the Bluetooth. But I can't say there're no easter eggs. (No keys, still.)
 
+### Solution
+
+- See: https://github.com/x43x61x69/HITCON-Badge/tree/master/Solution (TBA once the mini wargame is over.)
+
 ### FAQ
 
-- Q: The animation freezed?
+- __Q: The animation freezed?__
 - A: Your batteries' voltage is too low. Replace them or use microUSB as power source.
 
-- Q: I can't find my device?
+- __Q: I can't find my device?__
 - A: There are lots of BLE devices around, find somewhere without BLE disruption and retry. The device name is the same as its Bluetooth MAC address, it would help to locate your device if the name of the device can't be resolved due to disruption.
+
+- __Q: Pikachu catches failed with an error?__
+- A: It's (usually) because the signal to the source is too weak. The source is on the move.
 
 ## License
 
