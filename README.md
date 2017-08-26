@@ -2,7 +2,7 @@
 
 A (very) simple manual for HITCON 2017 Electronic Badge.
 
-*Last Update: Aug 26, 2017 9:20 AM*
+*Last Update: Aug 26, 2017 9:29 AM*
 
 ## Overview
 
@@ -76,6 +76,7 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
   - Beat the game with _250+_ points, which is (almost) impossible and not likely what a hacker would do.
   - By googling the keyword "_MT7697_" (given by the badge's description), you should be able to find some __REALLY__ useful tools from the [official site](https://docs.labs.mediatek.com/resource/mt7687-mt7697/en/).
   - That site also has a guide regarding those __REALLY__ useful tools that gives you the detail of flash structure.
+  - __MT7697__ is an ARM _Cortex-M4_ chip.
 - Pikachu:
   - No, there's no way to cheat this game besides saving some labor work. Stop wasting your time!
   - Also, there were no hidden keys regarding the Bluetooth. But I can't say there're no easter eggs. (No keys, still.)
