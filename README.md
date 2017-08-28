@@ -2,8 +2,6 @@
 
 A (very) simple manual for HITCON 2017 Electronic Badge.
 
-*Last Update: Aug 26, 2017 4:08 PM (UTC+8)*
-
 ## Overview
 
 **HITCON 2017 Electronic Badge** (HEB) is based on **MediaTek MT7697** SoC.
