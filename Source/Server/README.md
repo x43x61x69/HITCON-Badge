@@ -2,7 +2,7 @@
 
 This is the original server source code used in HITCON Badge 2017.
 
-- macOS and iOS version is used for key distribution.
+- macOS and iOS version were used for key distribution.
 - Python version is used by the badge.hitcon.org for key validation.
 
 ## License
