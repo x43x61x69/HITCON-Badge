@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../README.md">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Python">
+      <FileRef
+         location = "group:Python/HITCON Go/HITCON Go.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "macOS">
+      <FileRef
+         location = "group:/Users/mtk13658/Projects/HITCON-Go/Server/macOS/HITCON Go/HITCON Go.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "iOS">
+      <FileRef
+         location = "group:/Users/mtk13658/Projects/HITCON-Go/Server/iOS/HITCON Go/HITCON Go.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
