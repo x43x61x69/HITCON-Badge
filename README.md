@@ -57,7 +57,7 @@ A (very) simple manual for HITCON 2017 Electronic Badge.
   - You can use either the joy-stick or the `X`, `Y`, `A` and `B` to contorl the snake direction.
   - You can also pause the game via the `CENTER` button.
 - You might be able to catch some Pikachu if you were lucky.
-  - You might be rewarded if you happen to catch the most.
+  - You might also be rewarded if you happen to catch the most.
   - Sharing your capture results with others will be disqualified.
   - If you encountered any error, it's (usually) because the signal to the source is too weak.
 
